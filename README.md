@@ -12,5 +12,4 @@ https://github.com/laravel/framework
 
 # How To
 - Add custom classes:
-
-http://stackoverflow.com/questions/28290332/best-practices-for-custom-helpers-on-laravel-5/28360186#28360186
+http://stackoverflow.com/a/32772686/968312
